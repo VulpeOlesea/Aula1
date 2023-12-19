@@ -1,0 +1,4 @@
+#Faça um Programa que com um número e então mostre a mensagem 
+#O número é [número].
+numero = float(input("Digite um número: "))
+print("O número é", numero)
